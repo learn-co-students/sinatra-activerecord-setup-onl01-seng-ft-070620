@@ -20,7 +20,7 @@ application stubbed out with an `app.rb` file acting as the controller.
 
 ### Adding Your Gems
 
-Currently, a few gems are already present in our Gemfile:
+Currently, a few gems are already present in our Gemfile: 
 
 ```ruby
 gem 'sinatra'
